@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dkoirala\\source\\repos\\DigitReaderApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75B5B6A3-1F1D-438F-AF7E-B67BA019FA4F}|DigitReaderApp\\DigitReaderApp.pyproj|C:\\Users\\dkoirala\\source\\repos\\DigitReaderApp\\DigitReaderApp\\DigitReaderApp.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{75B5B6A3-1F1D-438F-AF7E-B67BA019FA4F}|DigitReaderApp\\DigitReaderApp.pyproj|solutionrelative:DigitReaderApp\\DigitReaderApp.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DigitReaderApp.py",
+              "DocumentMoniker": "C:\\Users\\dkoirala\\source\\repos\\DigitReaderApp\\DigitReaderApp\\DigitReaderApp.py",
+              "RelativeDocumentMoniker": "DigitReaderApp\\DigitReaderApp.py",
+              "ToolTip": "C:\\Users\\dkoirala\\source\\repos\\DigitReaderApp\\DigitReaderApp\\DigitReaderApp.py",
+              "RelativeToolTip": "DigitReaderApp\\DigitReaderApp.py",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-12T03:09:33.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
