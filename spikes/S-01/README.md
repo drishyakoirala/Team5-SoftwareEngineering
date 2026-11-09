@@ -2,6 +2,8 @@
 
 ## Risk or decision
 
+R1, R2; ADR-01, ADR-02, ADR-03; QAS-01, QAS-02, QAS-03.
+
 Can the camera-based prototype recognize individual handwritten digits, and
 what happens with unclear or multi-digit input?
 
@@ -29,6 +31,8 @@ displayed predictions. No timing or accuracy measurements were recorded.
 
 ## What it confirmed
 
+The spike confirmed QAS-01 and QAS-03.
+
 The prototype recognized 7, 2, and 3 in these manual tests, but did not
 recognize the blurry, backwards 2. The model predicts individual digits
 from 0 to 9, not multi-digit numbers such as 10. These observations do not
@@ -36,7 +40,6 @@ establish overall accuracy or performance.
 
 ## Related decisions and evidence
 
-No related risk, ADR, QAS, or requirement ID was recorded. The prototype
-code is available at [tag `p2`](https://github.com/drishyakoirala/Team5-SoftwareEngineering/tree/p2).
+The prototype code is available at [tag `p2`](https://github.com/drishyakoirala/Team5-SoftwareEngineering/tree/p2).
 The observations above were reported from manual testing; no screenshot or
-test log was recorded here.
+test log was recorded here - they are recorded on the P2 document.
